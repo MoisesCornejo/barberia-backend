@@ -9,9 +9,6 @@ Backend API RESTful para la gestión de una barbería: clientes, barberos, citas
 - Docker (para despliegue)
 - GitHub Actions (CI/CD)
 
-## Estructura del Proyecto
-
-
 ## Roadmap
 
 - [x] Definir Casos de Uso
